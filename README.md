@@ -6,6 +6,8 @@ My second attempt at making something fly!
 
 - view ep-01 [here](https://github.com/ILikeMice/ep-01)
 
+- Download the design for 3d printing [here](https://makerworld.com/en/models/2647673-ep-02-a-fully-3d-printed-rc-flying-wing) (please do, i need those makerworld points)
+
 The first version i made about a year ago was kinda really bad, with deepseek telling me the needed measurements without me really doing much significant research on them (+ lots of decisions were made with mainly aesthetic purposes in mind, altho cant say i didnt do that for this project either...). 
 
 For this project, i actually researched quite a bit, even digging up some german plane design magazine from 1994 for my airfoil. Overall, this project seems way better in theory alone, so im really hoping that this flies once i test it in a couple days!
