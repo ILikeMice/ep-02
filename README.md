@@ -23,6 +23,8 @@ Also,this design uses the exact same components as ep-01, so i dont need to buy 
 ![alt text](/images/image-2.png)
 ![alt text](/images/image-3.png)
 
+I dont know if a wiring diagram is really needed, the electronics are just a battery connected to Motor and receiver, and 2 servos connected to said receiver.
+
 ## BOM
 
 |Name                            |Price (€)|Link                                                        |
