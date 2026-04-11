@@ -2,7 +2,7 @@
 
 ![alt text](/images/poster.png)
 
-My second attempt at making something fly!
+My second attempt at making something fly! I decided to make this because i think its super cool, also, ive been wanting to redesign my old design for a while now.
 
 - view ep-01 [here](https://github.com/ILikeMice/ep-01)
 
@@ -13,6 +13,14 @@ The first version i made about a year ago was kinda really bad, with deepseek te
 For this project, i actually researched quite a bit, even digging up some german plane design magazine from 1994 for my airfoil. Overall, this project seems way better in theory alone, so im really hoping that this flies once i test it in a couple days!
 
 Also,this design uses the exact same components as ep-01, so i dont need to buy any extra stuff!
+
+## Assembly
+
+Assembly is pretty intuitive, the makerworld link above has all the files you need to 3d print, + the connectors (make sure that you print those vertically, if you print them horizontally they might break/not be as strong!).
+
+Each wing consists of 4 parts (3 parts wing + wingtip/wheel mount) and an elevon. The elevon uses 1.5mm steel wire (or anything rigid enough to hold it) as an axis and connects to a 9 servo inside the wing. If you want, you could even probably 3d print something to act as an axis / connector, but i had steel wire on hand, so i just used that.
+
+The motor is attached to the back with 4 M3 screws that come with it, with 4 5mm holes for tightening going out of the fuselage. Ive also got a part that you could glue onto the front to attach the motor and a front landing gear on a 2mm thick stick there, but the CG might be unbalanced that way, so use at your own risk (for the landing gear, i just drilled through the fuselage, at 5% infill it surprisingly doesnt mind)!
 
 ## IRL pictures
 
